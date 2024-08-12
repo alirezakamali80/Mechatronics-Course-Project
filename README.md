@@ -22,9 +22,6 @@ Key features of the project include:
 - [Results and Discussion](#results-and-discussion)
 - [Conclusion](#conclusion)
 - [Appendices](#appendices)
-  - [Arduino Code](#arduino-code)
-  - [Python GUI Code](#python-gui-code)
-  - [Schematics and 3D Models](#schematics-and-3d-models)
 
 ## Introduction
 
@@ -65,14 +62,9 @@ The project met its objectives of designing a compact, self-contained rotary mot
 
 ## Appendices
 
-### Arduino Code
-Find the complete Arduino code for speed control and temperature monitoring [here](./path/to/arduino_code.ino).
+[Report.pdf](./report.pdf)
 
-### Python GUI Code
-Access the Python code for the graphical user interface [here](./path/to/python_gui.py).
 
-### Schematics and 3D Models
-Download the schematics and 3D models for custom-built parts [here](./path/to/schematics_and_models).
 
 
 ## Supervisor
