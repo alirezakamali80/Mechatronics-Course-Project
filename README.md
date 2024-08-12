@@ -1,5 +1,6 @@
 # Mechatronics-Course-Project
 # Solenoid-Driven Rotary Motor with Closed-Loop Speed Control
+![Alt Text](./Capture.PNG)
 
 ## Project Overview
 
