@@ -66,7 +66,10 @@ The project met its objectives of designing a compact, self-contained rotary mot
 [Report.pdf](./report.pdf)
 
 
-
+## Team Members
+- [**Sina Asgari**]
+- [**Parsa Yarmohamadi**]
+- [**Alireza Kamali**]
 
 ## Supervisor
 - [**Dr. Sadighi**](https://www.researchgate.net/scientific-contributions/Ali-Sadighi-2241827998)
